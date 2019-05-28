@@ -5,7 +5,7 @@ Today we will go into _breakout groups_
 
 Think of a *hobby* or *job* from your life. Try to model it as a data story.
 
-1. Write a _database schema_ (a set of columns and what those columns represent/track, a single table or multiple tables) for this model. Only write columns that you know how to collect data for.
+1. Write a set of columns and what those columns represent/track, a single table or multiple tables for this model. Only write columns that you know how to collect data for.
 2. If data is _missing_ in any column, what does that mean?
 3. What _is not_ represented in your model?
 
